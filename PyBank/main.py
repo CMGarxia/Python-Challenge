@@ -78,7 +78,7 @@ with open(budget_data_csv, 'r') as budget_csv:  #open in read mode
            
 #print(f"Greatest Increase in Profits: {greatest_increase_date} (${greatest_increase})")  
 
-#print formatted outputs
+##print formatted outputs
 print("Financial Analysis")
 
 print("----------------------------")
